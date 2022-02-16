@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wizd100
 - 👀 I’m interested in web service
-- 🌱 I’m currently learning Java and C
+
 
 <!---
 wizd100/wizd100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
